@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **Weather App**
  
- 🌱 I’m currently learning **Redux**
+ 🌱 I’m currently learning **Firebase**
 
 💬 Ask me about **HTML5, React, CSS3, Javascript**
 

@@ -11,9 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Weather App**
- 
- 🌱 I’m currently learning **Next js**
+ 🌱 I’m currently learning **MERN Stack**
 
 💬 Ask me about **HTML5, React, CSS3, Javascript**
 

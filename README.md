@@ -5,15 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zainab+Rehman!;" />
 </h1>
 
-<h3 align="center">A passionate FrontEnd developer</h3>
+<h3 align="center">A passionate MERN Stack developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🌱 I’m currently learning **MERN Stack**
+ 🌱 I’m currently learning **Nextjs**
 
-💬 Ask me about **HTML5, React, CSS3, Javascript**
+💬 Ask me about **HTML5, React, CSS3, Javascript,Bootstrap,Express,Nodejs,Git,GitHub,postman,MongoDb,redux toolkit**
 
  </div>
  
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,javascript,html,css,vscode,github,tailwind,git" /><br/>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,javascript,html,css,vscode,github,git,nodejs,express,mongodb,redux,tailwindcss,postman,nodemailer" /><br/>
 </div>
 
 <br/>
